@@ -4,7 +4,7 @@
 this project is consist of 3 main parts; first we have the `config.py` file, which is where the configurations 
 and static variables are. then we have the `models.py` file, where database's model is stored and also where the 
 database instance and connection is created. at last, we have the `main.py` which has the responsibility to 
-create crawl and scrape data ans save them in database.
+create crawl and scrape data and save them in database.
  
 ## How to Run ❓
 first you need to create a virtual environment, cd to the directory where this file is and then run the following command:
